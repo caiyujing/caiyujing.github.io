@@ -1,14 +1,18 @@
-﻿---
+---
 layout:     post
-title:      More clarity on reported Tweets and enforcement
-subtitle:   More clarity on reported Tweets and enforcement
-date:       2018-11-21
+title:      80后不敢看，90后哭着看
+subtitle:   80后不敢看，90后哭着看
+date:       2018-10-09
 author:     LY
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-
+    - 文章
+    - 英文    
+    - 优秀
+    - 个人
 ---
+
 By David Gasca and Sam Toizer
 Wednesday, 17 October 2018    
 

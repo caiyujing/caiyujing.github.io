@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Improving health during Global Media and Information Literacy Week 2018
 subtitle:   Improving health during Global Media and Information Literacy Week 2018
@@ -8,6 +8,12 @@ header-img: img/post-bg-debug.png
 catalog: true
 tags:
 
+    - 文章
+    - 英文
+    - 文章
+    - 英文    
+    - 优秀
+    - 个人
 ---
 
 By Karen White

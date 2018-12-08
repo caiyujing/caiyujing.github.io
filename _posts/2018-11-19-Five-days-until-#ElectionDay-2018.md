@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      Five days until #ElectionDay 2018
 subtitle:   Five days until #ElectionDay 2018
@@ -6,7 +6,12 @@ date:       2018-11-19
 author:     LY
 header-img: img/post-bg-debug.png
 catalog: true
-tags:
+tags:    - 文章
+​    - 英文
+​    - 文章
+​    - 英文    
+​    - 优秀
+​    - 个人
 
 ---
 

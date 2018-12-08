@@ -7,6 +7,8 @@ author:     LY
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
+    - 文章
+    - 英文
 
 ---
 
